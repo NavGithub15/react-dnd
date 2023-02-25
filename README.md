@@ -10,9 +10,11 @@
 <li>React</li>
 </ul><ul>
 <li>Tailwind</li>
+</ul><ul>
+<li>drag and drop library https://github.com/hello-pangea/dnd</li>
 </ul><h2>Features</h2>
 <hr><ul>
-<li>Drag and Drop</li>
+<li>Drag and Drop using @hello-pangea/dnd</li>
 </ul><h2>Setup</h2>
 <hr><p>cd into react-kanban-dnd</p><h5>Steps</h5><ul>
 <li>install packages using npm i</li>
